@@ -1,6 +1,6 @@
 # Pokedex-with-API
 
-## **Description détaillée de votre projet :**
+## **Description détaillée de projet :**
 
 Le projet consiste à développer une application Android qui permettra
 aux utilisateurs de rechercher des informations sur différents Pokémons.
@@ -71,7 +71,7 @@ Android Pokédex incluent :
     être utilisé pour échanger des données entre le serveur et
     l\'application Android.
 
-## **Les API vous avez choisi :**
+## **Les API choisi :**
 
 J\'ai créé des API locales pour mon application Android Pokédex en
 utilisant le scraping de données avec le langage de programmation PHP.
@@ -82,7 +82,7 @@ différentes sources en utilisant des scripts de scrapping personnalisés.
 
 <https://github.com/ilhamelamdibih/Pokemon-Api>
 
-## **Pourquoi vous l\'avez choisie :**
+## **Pourquoi j\'ai choisi cette méthode :**
 
 Lorsqu\'il s\'agit de développer des applications qui nécessitent des
 données spécifiques. La création de vos propres API à partir du
